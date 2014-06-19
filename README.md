@@ -6,7 +6,7 @@ Many people take their online privacy very seriously, concerned about who may be
 Research and briefly describe what the TOR network is and how it works. (2 marks)
 
 ```
-answer here
+The TOR network is a software that gives many internet users the privacy they either need or want. It prevents hackers from viewing what you are doing or looking at online. This is done by TOR passing your data through different servers at the same time so hackers cannot see or track what you're doing online.
 ```
 
 Discuss the risks and benefits of such a network. (6 marks)
@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-answer here
+This network is intentionally designed for many people to have a safe and secure internet experience, however, it can have it's down-sides too. For example, criminals can often use this network to do stuff that's actually illegal to do online, such as bank account hacking. While using TOR, this means they cannot be tracked and can easily do it without being viewed by another person.
 ```
