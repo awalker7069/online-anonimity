@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-This network is intentionally designed for many people to have a safe and secure internet experience, however, it can have it's down-sides too. For example, criminals can often use this network to do stuff that's actually illegal to do online, such as bank account hacking. While using TOR, this means they cannot be tracked and can easily do it without being viewed by another person.
+This network is intentionally designed for many people to have a safe and secure internet experience, however, it can have it's down-sides too. For example, criminals can often use this network to do stuff that's actually illegal to do online, such as bank account hacking. While using TOR, this means they cannot be tracked and can easily do it without being viewed by another person. There is also a program name 'Silk Road' which is used for online trading illegally. All the items sold on Silk Road range from anything, such as guns, human slaves, drugs, etc. The TOR network allows people to use this illegal trading website. Also, in communist states such as China, internet security is controlled so that people can't get any infomation from outside media. The TOR network can then be used to bypass the restrictions and connect with other countries' media all over the world. 
 ```
